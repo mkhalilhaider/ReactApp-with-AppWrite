@@ -4,7 +4,7 @@ const initialState = {
   posts: [],
   loading: true,
   error: null,
-  sttaus
+  status: true
 };
 
 const postSlice = createSlice({

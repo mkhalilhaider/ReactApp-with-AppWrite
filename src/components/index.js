@@ -8,8 +8,13 @@ import Login from "./Login.jsx";
 import PostCard from "./PostCard.jsx";
 import Select from "./Select.jsx";
 import Input from "./Input.jsx";
+import RTE from "./RTE.jsx";
+import SignUp from "./SignUp.jsx";
+import PostForm from "./Post-Form/PostForm.jsx";
+import AuthLayout from "./AuthLayout.jsx";
 
 export {
+  RTE,
   Header,
   Footer,
   Logo,
@@ -20,4 +25,6 @@ export {
   PostCard,
   Login,
   Input,
+  SignUp,
+  PostForm,
 };
